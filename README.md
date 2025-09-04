@@ -1,2 +1,2 @@
-# chromebookusbport.github.io
-attempt at website
+this is a test lol
+Hello, world!
